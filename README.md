@@ -8,7 +8,10 @@
 | CUDA | 11.8 |
 | GPU 可用 |True |
 
-Project2一键运行代码： python validate.py
+Project2一键运行代码： 
+```bash
+python validate.py
+```
 期望运行结果：
 
           avg_loss = 0.7418
