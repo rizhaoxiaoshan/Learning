@@ -37,4 +37,4 @@ BaseLine：
 ```
 Top-1 Accuracy (µ ± σ)=0.7549±0.00031
 ```
-![Loss Curve](./Pictures/loss_curve.png)
+![Improved Model Loss](./Pictures/loss图.png)
