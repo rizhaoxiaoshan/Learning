@@ -10,6 +10,7 @@
 
 Project2一键运行代码： python validate.py
 期望运行结果：
+
           avg_loss = 0.7418
           top1 = 75.46%
           seed = 39
