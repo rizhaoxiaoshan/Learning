@@ -12,7 +12,7 @@ Project2一键运行代码：
 ```bash
 python validate.py
 ```
-期望运行结果：
+期望运行结果（统一为50epoch）：
 
           avg_loss = 0.7418
           top1 = 75.46%
